@@ -1,0 +1,19 @@
+{
+  "name": "solarcompany",
+  "version": "1.0.0",
+  "description": "company info web front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simhead/solarcompany.git"
+  },
+  "author": "Peter Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simhead/solarcompany/issues"
+  },
+  "homepage": "https://github.com/simhead/solarcompany#readme"
+}
