@@ -1,0 +1,19 @@
+Port 80 requires elevated privileges
+Listening on port 3000
+Listening on port 3000
+[0mGET / [32m200 [0m398.537 ms - 1082[0m
+[0mGET /stylesheets/chunkfive-fontface.css [32m200 [0m10.782 ms - 598[0m
+[0mGET /stylesheets/style.css [32m200 [0m158.948 ms - 3981[0m
+[0mGET /fonts/chunkfive/Chunkfive-webfont.woff [32m200 [0m0.757 ms - 12136[0m
+[0mGET / [36m304 [0m95.284 ms - -[0m
+[0mGET /stylesheets/chunkfive-fontface.css [36m304 [0m3.931 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m8.155 ms - -[0m
+[0mGET /fonts/chunkfive/Chunkfive-webfont.woff [36m304 [0m0.584 ms - -[0m
+[0mGET / [32m200 [0m99.356 ms - 1082[0m
+[0mGET / [32m200 [0m42.036 ms - 1082[0m
+[0mGET / [32m200 [0m81.384 ms - 1082[0m
+[0mGET / [32m200 [0m99.698 ms - 1082[0m
+[0mGET / [36m304 [0m39.304 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.819 ms - -[0m
+[0mGET /stylesheets/chunkfive-fontface.css [36m304 [0m1.311 ms - -[0m
+[0mGET /fonts/chunkfive/Chunkfive-webfont.woff [36m304 [0m0.438 ms - -[0m
